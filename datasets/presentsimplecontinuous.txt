@@ -1,93 +1,177 @@
-She is alone. #PresentSimple
-We live next door. #PresentSimple
-Greg likes to cook. #PresentSimple
-Fred contacts us often. #PresentSimple
-Betty looks like a music star. #PresentSimple
-This software protects you from harm. #PresentSimple
-We send important messages. #PresentSimple
-James needs your advice. #PresentSimple
-Trees grow very slowly. #PresentSimple
-Lucy and James are wealthier than us. #PresentSimple
-This company buys used cars. #PresentSimple
-They find cheap real estate online. #PresentSimple
-Surgeons perform surgeries. #PresentSimple
-We sleep seven hours a day. #PresentSimple
-I understand that question. #PresentSimple
-It means a lot to me. #PresentSimple
-Bob only invites people his age to parties. #PresentSimple
-You eat way too much. #PresentSimple
-That joystick controls the plane. #PresentSimple
-Susan always forgets my name. #PresentSimple
-Do you follow the rules? #PresentSimple
-Does he charge anything for that service? #PresentSimple
-Do you know my name? #PresentSimple
-Does it rain often? #PresentSimple
-Does it mean something to you? #PresentSimple
-Do we want anything? #PresentSimple
-Does a car cost a lot? #PresentSimple
-Do soldiers kill civilians? #PresentSimple
-What does it consist of? #PresentSimple
-What do you listen to? #PresentSimple
-Where does she live? #PresentSimple
-Which songs does he prefer? #PresentSimple
-Who are they? #PresentSimple
-Why does Jim drink so much? #PresentSimple
-I don't see it. #PresentSimple
-You don't watch television. #PresentSimple
-He doesn't use other people's notes. #PresentSimple
-She doesn't realise her mistake. #PresentSimple
-We don't throw parties any more. #PresentSimple
-They don't take showers. #PresentSimple
-Peter and Sally don't help poor people. #PresentSimple
-Jim doesn't get any money from the state. #PresentSimple
-I do not wish to speak to you. #PresentSimple
-He does not forgive his enemies. #PresentSimple
-The cost of living does not increase on its own. #PresentSimple
-They do not belong here. #PresentSimple
-
+She is alone. [Present Simple]
+<|endoftext|>
+We live next door. [Present Simple]
+<|endoftext|>
+Greg likes to cook. [Present Simple]
+<|endoftext|>
+Fred contacts us often. [Present Simple]
+<|endoftext|>
+Betty looks like a music star. [Present Simple]
+<|endoftext|>
+This software protects you from harm. [Present Simple]
+<|endoftext|>
+We send important messages. [Present Simple]
+<|endoftext|>
+James needs your advice. [Present Simple]
+<|endoftext|>
+Trees grow very slowly. [Present Simple]
+<|endoftext|>
+Lucy and James are wealthier than us. [Present Simple]
+<|endoftext|>
+This company buys used cars. [Present Simple]
+<|endoftext|>
+They find cheap real estate online. [Present Simple]
+<|endoftext|>
+Surgeons perform surgeries. [Present Simple]
+<|endoftext|>
+We sleep seven hours a day. [Present Simple]
+<|endoftext|>
+I understand that question. [Present Simple]
+<|endoftext|>
+It means a lot to me. [Present Simple]
+<|endoftext|>
+Bob only invites people his age to parties. [Present Simple]
+<|endoftext|>
+You eat way too much. [Present Simple]
+<|endoftext|>
+That joystick controls the plane. [Present Simple]
+<|endoftext|>
+Susan always forgets my name. [Present Simple]
+<|endoftext|>
+Do you follow the rules? [Present Simple]
+<|endoftext|>
+Does he charge anything for that service? [Present Simple]
+<|endoftext|>
+Do you know my name? [Present Simple]
+<|endoftext|>
+Does it rain often? [Present Simple]
+<|endoftext|>
+Does it mean something to you? [Present Simple]
+<|endoftext|>
+Do we want anything? [Present Simple]
+<|endoftext|>
+Does a car cost a lot? [Present Simple]
+<|endoftext|>
+Do soldiers kill civilians? [Present Simple]
+<|endoftext|>
+What does it consist of? [Present Simple]
+<|endoftext|>
+What do you listen to? [Present Simple]
+<|endoftext|>
+Where does she live? [Present Simple]
+<|endoftext|>
+Which songs does he prefer? [Present Simple]
+<|endoftext|>
+Who are they? [Present Simple]
+<|endoftext|>
+Why does Jim drink so much? [Present Simple]
+<|endoftext|>
+I don't see it. [Present Simple]
+<|endoftext|>
+You don't watch television. [Present Simple]
+<|endoftext|>
+He doesn't use other people's notes. [Present Simple]
+<|endoftext|>
+She doesn't realise her mistake. [Present Simple]
+<|endoftext|>
+We don't throw parties any more. [Present Simple]
+<|endoftext|>
+They don't take showers. [Present Simple]
+<|endoftext|>
+Peter and Sally don't help poor people. [Present Simple]
+<|endoftext|>
+Jim doesn't get any money from the state. [Present Simple]
+<|endoftext|>
+I do not wish to speak to you. [Present Simple]
+<|endoftext|>
+He does not forgive his enemies. [Present Simple]
+<|endoftext|>
+The cost of living does not increase on its own. [Present Simple]
+<|endoftext|>
+They do not belong here. [Present Simple]
 <|endoftext|>
 
-I'm arguing with my girlfriend. #PresentContinuous
-You're avoiding the question. #PresentContinuous
-She's buying a new car. #PresentContinuous
-He's calling me. #PresentContinuous
-It's happening again. #PresentContinuous
-We're catching the bus. #PresentContinuous
-You're changing your policy again. #PresentContinuous
-They're drawing each other's portraits. #PresentContinuous
-The planet is dying. #PresentContinuous
-James is keeping track of our progress. #PresentContinuous
-Francis is preparing for the presentation. #PresentContinuous
-Rick and Stuart are pushing the cart together. #PresentContinuous
-I am doing the shopping. #PresentContinuous
-You are cooking dinner. #PresentContinuous
-He is collecting taxes. #PresentContinuous
-You're pulling me away from my work. #PresentContinuous
-She is being rude to me. #PresentContinuous
-It is snowing in the Netherlands. #PresentContinuous
-It's getting late. #PresentContinuous
-I'm dressing the Christmas tree. #PresentContinuous
-She's handling your case. #PresentContinuous
-He's facing jail time. #PresentContinuous
-Are you copying the files? #PresentContinuous
-Am I running for president? #PresentContinuous
-Is she suggesting another solution? #PresentContinuous
-Is he monitoring our work? #PresentContinuous
-Are we gaining anything from that? #PresentContinuous
-Are they feeling bad about it? #PresentContinuous
-Are you fastening your seat belts? #PresentContinuous
-Are Philip and Lucy developing another video game? #PresentContinuous
-Why am I talking to you? #PresentContinuous
-What is Susy saying? #PresentContinuous
-What time are you leaving? #PresentContinuous
-Why are they offering that? #PresentContinuous
-I'm not laughing at all. #PresentContinuous
-I am not drinking tea at the moment. #PresentContinuous
-It is not getting late. #PresentContinuous
-The price isn't going up. #PresentContinuous
-They aren't phoning me. #PresentContinuous
-My heart isn't beating. #PresentContinuous
-We're not builing trust. #PresentContinuous
-The books aren't burning. #PresentContinuous
-
+I'm arguing with my girlfriend. [Present Continuous]
+<|endoftext|>
+You're avoiding the question. [Present Continuous]
+<|endoftext|>
+She's buying a new car. [Present Continuous]
+<|endoftext|>
+He's calling me. [Present Continuous]
+<|endoftext|>
+It's happening again. [Present Continuous]
+<|endoftext|>
+We're catching the bus. [Present Continuous]
+<|endoftext|>
+You're changing your policy again. [Present Continuous]
+<|endoftext|>
+They're drawing each other's portraits. [Present Continuous]
+<|endoftext|>
+The planet is dying. [Present Continuous]
+<|endoftext|>
+James is keeping track of our progress. [Present Continuous]
+<|endoftext|>
+Francis is preparing for the presentation. [Present Continuous]
+<|endoftext|>
+Rick and Stuart are pushing the cart together. [Present Continuous]
+<|endoftext|>
+I am doing the shopping. [Present Continuous]
+<|endoftext|>
+You are cooking dinner. [Present Continuous]
+<|endoftext|>
+He is collecting taxes. [Present Continuous]
+<|endoftext|>
+You're pulling me away from my work. [Present Continuous]
+<|endoftext|>
+She is being rude to me. [Present Continuous]
+<|endoftext|>
+It is snowing in the Netherlands. [Present Continuous]
+<|endoftext|>
+It's getting late. [Present Continuous]
+<|endoftext|>
+I'm dressing the Christmas tree. [Present Continuous]
+<|endoftext|>
+She's handling your case. [Present Continuous]
+<|endoftext|>
+He's facing jail time. [Present Continuous]
+<|endoftext|>
+Are you copying the files? [Present Continuous]
+<|endoftext|>
+Am I running for president? [Present Continuous]
+<|endoftext|>
+Is she suggesting another solution? [Present Continuous]
+<|endoftext|>
+Is he monitoring our work? [Present Continuous]
+<|endoftext|>
+Are we gaining anything from that? [Present Continuous]
+<|endoftext|>
+Are they feeling bad about it? [Present Continuous]
+<|endoftext|>
+Are you fastening your seat belts? [Present Continuous]
+<|endoftext|>
+Are Philip and Lucy developing another video game? [Present Continuous]
+<|endoftext|>
+Why am I talking to you? [Present Continuous]
+<|endoftext|>
+What is Susy saying? [Present Continuous]
+<|endoftext|>
+What time are you leaving? [Present Continuous]
+<|endoftext|>
+Why are they offering that? [Present Continuous]
+<|endoftext|>
+I'm not laughing at all. [Present Continuous]
+<|endoftext|>
+I am not drinking tea at the moment. [Present Continuous]
+<|endoftext|>
+It is not getting late. [Present Continuous]
+<|endoftext|>
+The price isn't going up. [Present Continuous]
+<|endoftext|>
+They aren't phoning me. [Present Continuous]
+<|endoftext|>
+My heart isn't beating. [Present Continuous]
+<|endoftext|>
+We're not builing trust. [Present Continuous]
+<|endoftext|>
+The books aren't burning. [Present Continuous]
 <|endoftext|>
